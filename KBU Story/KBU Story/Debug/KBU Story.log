@@ -1,0 +1,153 @@
+﻿  KBU Story.c
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(222): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(344): warning C4098: 'character_map1': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(340): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(360): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(354): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(354): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(554): warning C4098: 'character_map2': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(550): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(571): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(565): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(565): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(717): warning C4098: 'character_map3': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(713): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(737): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(731): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(731): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(973): warning C4098: 'character_map4': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(969): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(989): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(983): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(983): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1179): warning C4098: 'character_map5': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1175): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1194): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1187): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1187): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1429): warning C4098: 'character_map6': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1425): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1451): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1445): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1445): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1619): warning C4098: 'character_map7': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1615): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1632): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1626): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1626): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1857): warning C4098: 'character_map8': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1853): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1874): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1868): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(1868): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2043): warning C4098: 'character_map9': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2039): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2066): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2060): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2060): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2256): warning C4098: 'character_map12': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2252): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2269): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2263): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2263): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2418): warning C4098: 'character_map10': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2414): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2433): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2426): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2426): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2689): warning C4098: 'character_map11': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2685): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2709): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2700): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(2700): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3890): warning C4098: 'draw_start_menu': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3886): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3897): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3947): warning C4098: 'draw_map1': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3943): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3954): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3995): warning C4098: 'draw_map2': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(3991): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4002): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4041): warning C4098: 'draw_map3': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4037): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4048): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4116): warning C4098: 'draw_map4': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4123): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4177): warning C4098: 'draw_map5': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4173): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4184): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4248): warning C4098: 'draw_map6': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4244): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4255): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4304): warning C4098: 'draw_map7': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4311): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4368): warning C4098: 'draw_map8': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4364): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4375): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4416): warning C4098: 'draw_map9': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4412): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4423): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4476): warning C4098: 'draw_map10': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4472): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4483): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4540): warning C4098: 'draw_map11': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4536): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4547): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4605): warning C4098: 'draw_map12': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4601): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\kbu story\kbu story\kbu story.c(4612): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  KBU Story.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\KBU Story\Debug\KBU Story.exe
+  KBU Story.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\KBU Story\Debug\KBU Story.pdb (Full PDB)
